@@ -1,8 +1,8 @@
 # iris_flower_Classification
-iris Flower Classification project for Alpha company task
-# Iris Flower Classification
+iris Flower Classification
 
-This project is part of my Data Science internship at CodeAlpha.
+This project is part of my Data Science 
+#self learning
 
 ## Project Description
 This project classifies iris flowers into three species
